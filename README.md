@@ -69,11 +69,8 @@ git clone https://github.com/Prem2868/PRAMOD-AI.git
 cd PRAMOD-AI
 pip install -r requirements.txt
 ```
-
-### Run
-```bash
-python main.py
-```
+## 📅 Development Log
+- Jun 17, 2026: Project structure initialized, core modules added
 
 ---
 **Author:** Pramod Jogdand  
