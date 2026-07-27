@@ -2,10 +2,10 @@
 # Author: Pramod Jogdand | github.com/Prem2868
 # © 2026 Pramod Jogdand. All rights reserved.
 
-python-dotenv>=1.0.0
+python-dotenv>=1.2.2
 asyncio>=3.4.3
 requests>=2.31.0
 pydantic>=2.0.0
 numpy>=1.24.0
-aiohttp>=3.8.5
+aiohttp>=3.9.5
 cryptography>=41.0.0
